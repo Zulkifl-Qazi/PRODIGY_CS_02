@@ -1,0 +1,8 @@
+└─$ python Task2.py 
+Image Encryption Tool
+---------------------
+1. Encrypt Image
+2. Decrypt Image
+Enter your choice: 2
+Enter the encrypted image path: encrypted_image.png
+Image decrypted successfully!
